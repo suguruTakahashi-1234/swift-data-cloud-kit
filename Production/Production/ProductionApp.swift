@@ -1,15 +1,15 @@
 //
-//  PrdApp.swift
-//  Prd
+//  ProductionApp.swift
+//  Production
 //
-//  Created by Suguru Takahashi on 2025/04/10.
+//  Created by Suguru Takahashi on 2025/04/11.
 //
 
 import SwiftUI
 import SwiftData
 
 @main
-struct PrdApp: App {
+struct ProductionApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,

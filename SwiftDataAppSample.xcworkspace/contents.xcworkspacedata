@@ -5,9 +5,9 @@
       location = "group:SwiftDataAppSamplePackage">
    </FileRef>
    <FileRef
-      location = "group:Dev/Dev.xcodeproj">
+      location = "group:Production/Production.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Prd/Prd.xcodeproj">
+      location = "group:Dev/Dev.xcodeproj">
    </FileRef>
 </Workspace>

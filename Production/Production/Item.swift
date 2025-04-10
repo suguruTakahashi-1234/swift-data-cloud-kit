@@ -1,8 +1,8 @@
 //
 //  Item.swift
-//  Prd
+//  Production
 //
-//  Created by Suguru Takahashi on 2025/04/10.
+//  Created by Suguru Takahashi on 2025/04/11.
 //
 
 import Foundation

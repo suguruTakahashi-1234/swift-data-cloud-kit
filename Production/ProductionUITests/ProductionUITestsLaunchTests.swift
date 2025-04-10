@@ -1,13 +1,13 @@
 //
-//  PrdUITestsLaunchTests.swift
-//  PrdUITests
+//  ProductionUITestsLaunchTests.swift
+//  ProductionUITests
 //
-//  Created by Suguru Takahashi on 2025/04/10.
+//  Created by Suguru Takahashi on 2025/04/11.
 //
 
 import XCTest
 
-final class PrdUITestsLaunchTests: XCTestCase {
+final class ProductionUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
